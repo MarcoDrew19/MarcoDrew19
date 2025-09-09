@@ -47,17 +47,7 @@ ETL Processes   ████████████████████ 80%
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USERNAME&theme=radical&hide_border=true&background=0D1117)
-
-</div>
 
 ---
 
@@ -103,6 +93,5 @@ Creo firmemente en el poder de los datos para impulsar decisiones inteligentes y
   
 **⭐ Si te gusta mi trabajo, considera darle una estrella a mis repositorios ⭐**
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=brightgreen&style=flat-square)
 
 </div>
